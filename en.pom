@@ -1,0 +1,1171 @@
+# English translation of Blazor Bulitin Board
+# Copyright 2016 Sevvlor <me@sevvlor.com>
+
+msgid "Helaas. Je hebt geen toestemming om deze pagina te bezoeken."
+msgstr ""
+
+msgid "Reden voor verbanning: {0}. Deze verbanning zal worden opgeheven op: {1}"
+msgstr ""
+
+msgid "Uw account is momenteel verbannen van dit forum."
+msgstr ""
+
+msgid "Reden voor verbanning: {0}."
+msgstr ""
+
+msgid "U bent momenteel verbannen van dit forum."
+msgstr ""
+
+msgid "{0}, je moet eerst het account activeren voor je berichten kan plaatsen."
+msgstr ""
+
+msgid "Er is één ongelezen privébericht."
+msgid_plural "Er zijn {0} ongelezen privéberichten."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Er is één gerapporteerd bericht."
+msgid_plural "Er zijn {0} gerapporteerde berichten."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Mijn vrienden"
+msgstr ""
+
+msgid "De opgegeven gebruiker bestaat niet."
+msgstr ""
+
+msgid "Je kan je zelf niet toevoegen als vriend."
+msgstr ""
+
+msgid "{0} heeft vriendverzoeken uitgeschakeld."
+msgstr ""
+
+msgid "{0} staat al in je vriendenlijst."
+msgstr ""
+
+msgid "Vriend verzoek van {0}"
+msgstr ""
+
+msgid "Het vriendschapsverzoek is gestuurd."
+msgstr ""
+
+msgid "Er is wat fout gegaan tijdens het opslaan."
+msgstr ""
+
+msgid "Vriend toevoegen"
+msgstr ""
+
+msgid "{0} staat niet in je vriendenlijst."
+msgstr ""
+
+msgid "{0} is verwijderd uit je vriendenlijst."
+msgstr ""
+
+msgid "Er is een fout opgetreden."
+msgstr ""
+
+msgid "{0} heeft geen verzoek gestuurd."
+msgstr ""
+
+msgid "Vriend verzoek van {0} is geaccepteerd"
+msgstr ""
+
+msgid "{0} staat nu in je vriendenlijst."
+msgstr ""
+
+msgid "Chatbox archief"
+msgstr ""
+
+msgid "De opgegeven forumaankondiging bestaat niet (meer)."
+msgstr ""
+
+msgid "Aankondiging: {0}"
+msgstr ""
+
+msgid "Forum overzicht"
+msgstr ""
+
+msgid "Het opgegeven forum bestaat niet."
+msgstr ""
+
+msgid "Moderatie paneel"
+msgstr ""
+
+msgid "Privéberichten - inbox"
+msgstr ""
+
+msgid "Privéberichten - outbox"
+msgstr ""
+
+msgid "Het opgegeven bericht bestaat niet."
+msgstr ""
+
+msgid "Re: {0}"
+msgstr ""
+
+msgid "Deze gebruiker heeft het ontvangen van privébrichten uitgeschakeld."
+msgstr ""
+
+msgid "U moet nog {0} seconden wachten"
+msgstr ""
+
+msgid "Nieuw privébericht van {0}"
+msgstr ""
+
+msgid "Je hebt een nieuwe reactie op een privébericht ontvangen met de titel {0}. Klik op de URL om hem te lezen"
+msgstr ""
+
+msgid "Het bericht is verzonden!"
+msgstr ""
+
+msgid "Er is wat foutgegaan tijdens het opslaan van het privébericht."
+msgstr ""
+
+msgid "privébericht {0}"
+msgstr ""
+
+msgid "Deze gebruiker bestaat niet."
+msgstr ""
+
+msgid "Je hebt een nieuw privébericht ontvangen met de titel {0}. Klik op de URL om hem te lezen"
+msgstr ""
+
+msgid "Nieuw privébericht opstellen"
+msgstr ""
+
+msgid "Het privé bericht is verwijderd"
+msgstr ""
+
+msgid "The private message could not be deleted. Please, try again."
+msgstr ""
+
+msgid "De koppeling met Pushbullet is niet geslaagd, probeer het nog eens."
+msgstr ""
+
+msgid "Je {0} account is succesvol gekoppeld aan PushBullet."
+msgstr ""
+
+msgid "De pusbullet koppeling is opgeheven."
+msgstr ""
+
+msgid "Er is een fout opgetreden bij het ontkoppelen van Pushbullet."
+msgstr ""
+
+msgid "U kunt in dit topic geen reacties plaatsen of bestaande berichten bewerken."
+msgstr ""
+
+msgid "Het opgegeven topic bestaat niet."
+msgstr ""
+
+msgid "Reageren op {0}"
+msgstr ""
+
+msgid "Er is een fout opgetreden tijdens het plaatsen van de reactie."
+msgstr ""
+
+msgid "Bericht aanpassen"
+msgstr ""
+
+msgid "Forum Statistieken"
+msgstr ""
+
+msgid "Forum team"
+msgstr ""
+
+msgid "U hebt geen toestemming om deze pagina te bekijken."
+msgstr ""
+
+msgid "Het aanmaken van topics voor dit forum is uigeschakeld."
+msgstr ""
+
+msgid "Er is een fout opgetreden tijdens het plaatsen van het topic"
+msgstr ""
+
+msgid "Topic maken in {0}"
+msgstr ""
+
+msgid "Topics van {0}"
+msgstr ""
+
+msgid "De zoekopdracht is te kort, minimaal 4 tekens."
+msgstr ""
+
+msgid "Topics zoeken"
+msgstr ""
+
+msgid "Topics zoeken op \"{0}\""
+msgstr ""
+
+msgid "Sessie overzicht"
+msgstr ""
+
+msgid "Je kan de huidige sessie niet intrekken, je moet gewoon uitloggen."
+msgstr ""
+
+msgid "De opgegeven sessie bestaat niet."
+msgstr ""
+
+msgid "De sessie is ingetrokken."
+msgstr ""
+
+msgid "Uw gebruikers-id kon niet worden geverifiëerd."
+msgstr ""
+
+msgid "Wachtwoord aangepast"
+msgstr ""
+
+msgid "Het wachtwoord is aangepast"
+msgstr ""
+
+msgid "Er is iets fout gegaan tijdens het opslaan."
+msgstr ""
+
+msgid "Nieuw wachtwoord"
+msgstr ""
+
+msgid "U hebt al een actieve sessie op het account {0}"
+msgstr ""
+
+msgid "Er is een verkeerde beveiligingscode opgegeven."
+msgstr ""
+
+msgid "Het opgegeven e-mailadres is ongeldig."
+msgstr ""
+
+msgid "Wachtwoord herstelinstructies {0}) "
+msgstr ""
+
+msgid "Als er een account bestaat met het opgegeven e-mail adres, ontvangt u een e-mail met herstelinstructies."
+msgstr ""
+
+msgid "Wachtwoord vergeten"
+msgstr ""
+
+msgid "Welkom terug, {0}. We zijn blij dat je er weer bent!"
+msgstr ""
+
+msgid "Verkeerde gebruikersnaam en wachtwoordcombinatie"
+msgstr ""
+
+msgid "Uitlogverificatie mislukt, neem contact op met een beheerder."
+msgstr ""
+
+msgid "Uw account is geactiveerd!"
+msgstr ""
+
+msgid "Dit accout kan niet worden geactiveerd, er is wat fout gegaan!"
+msgstr ""
+
+msgid "Dit accout kan niet worden geactiveerd!"
+msgstr ""
+
+msgid "Account activeren"
+msgstr ""
+
+msgid "Gebruikers controle paneel"
+msgstr ""
+
+msgid "Profiel van {0}"
+msgstr ""
+
+msgid "De aanpassingen zijn opgeslagen."
+msgstr ""
+
+msgid "Er is iets fout gegaan tijdens het opslaan van de gebruiker."
+msgstr ""
+
+msgid "Profiel bewerken"
+msgstr ""
+
+msgid "Hoi {0}, je was al ingelogd!"
+msgstr ""
+
+msgid "Welkom op Blazor {0}, leuk dat je er bent!."
+msgstr ""
+
+msgid "Er is een fout opgetreden tijdens het aanmaken van het account"
+msgstr ""
+
+msgid "Registreren is uitgeschakeld voor deze website."
+msgstr ""
+
+msgid "U kunt uw gebruikersafbeelding niet aanpassen."
+msgstr ""
+
+msgid "Er is een fout opgetreden tijdens het opslaan."
+msgstr ""
+
+msgid "De avatar is geupload"
+msgstr ""
+
+msgid "Gebruikersafbeelding aanpassen"
+msgstr ""
+
+msgid "Het opgegeven wachtwoord is onjuist."
+msgstr ""
+
+msgid "Verifieer uw e-mailadres"
+msgstr ""
+
+msgid "Het e-mail adres is aangepast."
+msgstr ""
+
+msgid "E-mailaddress wijzigen"
+msgstr ""
+
+msgid "De instellingen zijn opgeslagen."
+msgstr ""
+
+msgid "Instellingen aanpassen"
+msgstr ""
+
+msgid "U kunt uw handtekening niet aanpassen."
+msgstr ""
+
+msgid "De handtekening is opgeslagen."
+msgstr ""
+
+msgid "Handtekening aanpassen"
+msgstr ""
+
+msgid "Wachtwoord wijzigen"
+msgstr ""
+
+msgid "Verbannen gebruikers"
+msgstr ""
+
+msgid "{0} is verbannen."
+msgstr ""
+
+msgid "De opgegeven ban bestaat niet."
+msgstr ""
+
+msgid "De ban van {0} is opgeheven."
+msgstr ""
+
+msgid "Het forum {0} is succesvol aangemaakt."
+msgstr ""
+
+msgid "De aanpassingen voor het forum {0} is succesvol opgeslagen."
+msgstr ""
+
+msgid "{0} heeft één or meer subfora en kan niet worden verwijderd,"
+msgstr ""
+
+msgid "{0} bevat één or meer topics en kan niet worden verwijderd,"
+msgstr ""
+
+msgid "Het forum {0} is verwijderd."
+msgstr ""
+
+msgid "Het forum {0} kon niet worden verwijderd."
+msgstr ""
+
+msgid "De ingevulde code is incorrect"
+msgstr ""
+
+msgid "Nieuwe admin sessie"
+msgstr ""
+
+msgid "Er is ingelogd op het ACP vanaf {0}. Als jij dit niet bent neem dan onmiddelijk contact op."
+msgstr ""
+
+msgid "Er is een fout opgetreden tijdens het verwerken van de aanvraag."
+msgstr ""
+
+msgid "Privé berichten inzien"
+msgstr ""
+
+msgid "Het opgegeven privébericht bestaat niet."
+msgstr ""
+
+msgid "Heeft {0} gelezen"
+msgstr ""
+
+msgid "Actieve Sessies"
+msgstr ""
+
+msgid "Sessie van {0} ingetrokken"
+msgstr ""
+
+msgid "De sessie van {0} is opgeheven."
+msgstr ""
+
+msgid "Gebruikers overzicht"
+msgstr ""
+
+msgid "De avatar van {0} kon niet worden verwijderd."
+msgstr ""
+
+msgid "Het profiel van {0} is aangepast."
+msgstr ""
+
+msgid "De opgevraagde gebruiker bestaat niet."
+msgstr ""
+
+msgid "{0} bekijken"
+msgstr ""
+
+msgid "Gebruikers zoeken op IP: {0}"
+msgstr ""
+
+msgid "Gebruikers zoeken op gebruikersnaam"
+msgstr ""
+
+msgid "Gebruikers zoeken op e-mail address"
+msgstr ""
+
+msgid "OS Onbekent"
+msgstr ""
+
+msgid "Browser Onbekent"
+msgstr ""
+
+msgid "ChatBan #{0} uitgedeeld"
+msgstr ""
+
+msgid "{0} is verbannen uit de chatbox."
+msgstr ""
+
+msgid "Er is een fout opgetreden. :("
+msgstr ""
+
+msgid "Chat ban toevoegen"
+msgstr ""
+
+msgid "Chatban van {0} is opgeheven"
+msgstr ""
+
+msgid "Shoutbox reports"
+msgstr ""
+
+msgid "De Chat report is verwijderd"
+msgstr ""
+
+msgid "The chat report could not be deleted. Please, try again."
+msgstr ""
+
+msgid "Het chatbericht is verwijderd"
+msgstr ""
+
+msgid "Forum aankondigingen"
+msgstr ""
+
+msgid "De forum aankondiging is opgeslagen"
+msgstr ""
+
+msgid "Forumaankondiging {0} is toegevoegd"
+msgstr ""
+
+msgid "Er is wat foutgegaan tijdens het opslaan van de forumaankondiging."
+msgstr ""
+
+msgid "Forumaankondiging {0} is bewerkt"
+msgstr ""
+
+msgid "De opgegeven forumaankondiging bestaat niet."
+msgstr ""
+
+msgid "Forumaankondiging {0} is verwijderd"
+msgstr ""
+
+msgid "De forumaankondiging is verwijderd"
+msgstr ""
+
+msgid "De opgegeven meldig kon niet worden gevonden."
+msgstr ""
+
+msgid "De melding #{0} is gelezen."
+msgstr ""
+
+msgid "Topic bewerkt"
+msgstr ""
+
+msgid "Er is wat fout gegaan tijdens het opslaan van het topic."
+msgstr ""
+
+msgid "{0} bewerken"
+msgstr ""
+
+msgid "Het ogegeven forum bestaat niet."
+msgstr ""
+
+msgid "Waarschuwingen"
+msgstr ""
+
+msgid "De opgegeven waarschuwing bestaat niet."
+msgstr ""
+
+msgid "Waarschuwing bekijken"
+msgstr ""
+
+msgid "{0} heeft al een waarschuwingsniveau van 100%."
+msgstr ""
+
+msgid "{0} is gewaarschuwed."
+msgstr ""
+
+msgid "Waarschuwing #{0} ingetrokken"
+msgstr ""
+
+msgid "De waarschuwing #{0} van {1} is ingetrokken."
+msgstr ""
+
+msgid "Waarschuwing intrekken"
+msgstr ""
+
+msgid "Method not allowed"
+msgstr ""
+
+msgid "Je hebt geen toestemming om dit te doen."
+msgstr ""
+
+msgid "Het bericht is te kort."
+msgstr ""
+
+msgid "Het bericht is te lang."
+msgstr ""
+
+msgid "Even wachten."
+msgstr ""
+
+msgid "Vul een geldige reden in"
+msgstr ""
+
+msgid "Er is wat fout gegaan"
+msgstr ""
+
+msgid "The path for the {0} field is required."
+msgstr ""
+
+msgid "Error to get the uploadPath."
+msgstr ""
+
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini : {0}"
+msgstr ""
+
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form."
+msgstr ""
+
+msgid "The uploaded file was only partially uploaded."
+msgstr ""
+
+msgid "Missing a temporary folder."
+msgstr ""
+
+msgid "Failed to write file to disk."
+msgstr ""
+
+msgid "A PHP extension stopped the file upload."
+msgstr ""
+
+msgid "Unknown upload error."
+msgstr ""
+
+msgid "nooit"
+msgstr ""
+
+msgid "Ongelezen"
+msgstr ""
+
+msgid "Ingetrokken"
+msgstr ""
+
+msgid "Verlopen"
+msgstr ""
+
+msgid "Ongeldige periode."
+msgstr ""
+
+msgid "Er moet een geldige hoeveelheid worden opgegeven."
+msgstr ""
+
+msgid "Nieuw vriendverzoek"
+msgstr ""
+
+msgid "Je hebt een nieuw vriendverzoek ontvangen, klik op de url om het verzoek te bekijken."
+msgstr ""
+
+msgid "Een onderwerp is verplicht."
+msgstr ""
+
+msgid "Een onderwerp moet minimaal 3 karakters bevatten."
+msgstr ""
+
+msgid "Een onderwerp mag maximaal 75 karakters bevatten."
+msgstr ""
+
+msgid "Deze waarde is niet uniek."
+msgstr ""
+
+msgid "Een melding is verplicht."
+msgstr ""
+
+msgid "Een melding moet minimaal 3 karakters bevatten."
+msgstr ""
+
+msgid "Ongeldige keuze."
+msgstr ""
+
+msgid "Een naam is verplicht."
+msgstr ""
+
+msgid "De name mag minimaal uit 5 en maximaal 35 karakters bestaan."
+msgstr ""
+
+msgid "Ongeldige account status."
+msgstr ""
+
+msgid "Een omschrijving is verplicht."
+msgstr ""
+
+msgid "Een omschrijving moet minimaal 3 karakters bevatten."
+msgstr ""
+
+msgid "Er moet een geldige URL worden opgegeven."
+msgstr ""
+
+msgid "Er moet een geldige parent worden opgegeven."
+msgstr ""
+
+msgid "Eent onderwerp is verplicht."
+msgstr ""
+
+msgid "Een onderwerp moet minimaal uit 3 en maximaal 75 karakters bestaan."
+msgstr ""
+
+msgid "Een bericht is verplicht."
+msgstr ""
+
+msgid "Een bericht moet minimaal 3 karakters bevatten."
+msgstr ""
+
+msgid "Een bericht mag maximaal maar 15.000 karakters bevatten."
+msgstr ""
+
+msgid "Een gebruikersnaam is verplicht."
+msgstr ""
+
+msgid "De gebruikersnaam mag minimaal uit 3 en maximaal 15 karakters bestaan."
+msgstr ""
+
+msgid "Deze gebruikersnaam is al gebruikt."
+msgstr ""
+
+msgid "De gebruikersnaam bevat ongeldige tekens."
+msgstr ""
+
+msgid "Een  gebruikerstitel mag maximaal uit 25 tekens"
+msgstr ""
+
+msgid "Een handschrift mag maximaal maar uit 140 tekens bestaan"
+msgstr ""
+
+msgid "Een wachtwoord is verplicht."
+msgstr ""
+
+msgid "het wachtwoord moet minimaal uit 6 karakters bestaan."
+msgstr ""
+
+msgid "Het wachtwoord mag maximaal uit 64 karakters bestaan."
+msgstr ""
+
+msgid "De ingevulde wachtwoorden komen niet overeen."
+msgstr ""
+
+msgid "Een e-mail adres is verplicht."
+msgstr ""
+
+msgid "Dit e-mail adres is al gebruikt."
+msgstr ""
+
+msgid "Vul een geldig e-mail adres in."
+msgstr ""
+
+msgid "De ingevulde e-mail adressen komen niet overeen."
+msgstr ""
+
+msgid "geen bestand geselecteerd"
+msgstr ""
+
+msgid "Alleen GIF, JPEG en PNG bestanden zijn toegestaan."
+msgstr ""
+
+msgid "Het plaatje moet minder zijn dan 2MB."
+msgstr ""
+
+msgid "Ongeldige thema keuze."
+msgstr ""
+
+msgid "Er zijn gerapporteerde berichten."
+msgstr ""
+
+msgid "Bekijken"
+msgstr ""
+
+msgid "Er zijn handelingen uitgevoerd."
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Ban Intrekken"
+msgstr ""
+
+msgid "Weet je zeker dat je de ban van {0} wilt opheffen?"
+msgstr ""
+
+msgid "Bij een 'doorstuur forum' is een link verplicht."
+msgstr ""
+
+msgid "Hiernaar verwijst het doorverwijsforum."
+msgstr ""
+
+msgid "Bewerken"
+msgstr ""
+
+msgid "Verwijderen"
+msgstr ""
+
+msgid "Weet je zeker dat je het forum {0} wilt verwijderen?"
+msgstr ""
+
+msgid "Er zijn nog geen privé berichten gestuurd."
+msgstr ""
+
+msgid "Verwijder"
+msgstr ""
+
+msgid "Weet je zeker dat je het privé bericht {0} wilt verwijderen?"
+msgstr ""
+
+msgid "Er zijn geen actieve sessies"
+msgstr ""
+
+msgid "Intrekken"
+msgstr ""
+
+msgid "Er zijn geen gebruikers die voldoen aan deze criteria."
+msgstr ""
+
+msgid "Waarschuwen"
+msgstr ""
+
+msgid "Verbannen"
+msgstr ""
+
+msgid "Gebruiker bewerken"
+msgstr ""
+
+msgid "Zoek gebruikers"
+msgstr ""
+
+msgid "IP verbannen"
+msgstr ""
+
+msgid "Je hebt nog geen vrienden."
+msgstr ""
+
+msgid "Je hebt nog geen verzoeken ontvangen"
+msgstr ""
+
+msgid "Accepteren"
+msgstr ""
+
+msgid "Afwijzen"
+msgstr ""
+
+msgid "Je hebt nog geen verzoeken gestuurd."
+msgstr ""
+
+msgid "Annuleren"
+msgstr ""
+
+msgid "< Vorige"
+msgstr ""
+
+msgid "Volgende >"
+msgstr ""
+
+msgid "Uitloggen"
+msgstr ""
+
+msgid "Weet je zeker dat je wil uitloggen?"
+msgstr ""
+
+msgid "Sluiten"
+msgstr ""
+
+msgid "Openen"
+msgstr ""
+
+msgid "Herstel"
+msgstr ""
+
+msgid "U bent verbannen uit de shoutbox. Ban verloopt op: {0}. Reden: {1}"
+msgstr ""
+
+msgid "Aankondigingen"
+msgstr ""
+
+msgid "< Eerste"
+msgstr ""
+
+msgid "Laatste >"
+msgstr ""
+
+msgid "Laatste moderator handelingen"
+msgstr ""
+
+msgid "Periode:"
+msgstr ""
+
+msgid "Uur/Uren"
+msgstr ""
+
+msgid "Dag/Dagen"
+msgstr ""
+
+msgid "Week/Weken"
+msgstr ""
+
+msgid "Maand/Maanden"
+msgstr ""
+
+msgid "Jaar/Jaren"
+msgstr ""
+
+msgid "Permanent"
+msgstr ""
+
+msgid "periode"
+msgstr ""
+
+msgid "Aantal:"
+msgstr ""
+
+msgid "Er zijn nog geen meldingen"
+msgstr ""
+
+msgid "Acties"
+msgstr ""
+
+msgid "Weet je zeker dat je het report wilt verwijderen?"
+msgstr ""
+
+msgid "Verwijder bericht"
+msgstr ""
+
+msgid "Weet je zeker dat je het chatbericht wilt verwijderen?"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Laat dit veld leeg als de melding nooit moet verlopen."
+msgstr ""
+
+msgid "Alle fora"
+msgstr ""
+
+msgid "Selecteer hier de fora waar de melding te zien moet zijn, laat dit leeg als de melding op alle fora te zien moet zijn."
+msgstr ""
+
+msgid "Melding opslaan"
+msgstr ""
+
+msgid "Er zijn geen forum mededelingen gemaakt."
+msgstr ""
+
+msgid "Weet je zeker dat je de forumaanondiging {0} wilt verwijderen?"
+msgstr ""
+
+msgid "Er zijn nog geen waarschuwingen uitgedeeld."
+msgstr ""
+
+msgid "Waarschuwing Intrekken"
+msgstr ""
+
+msgid "Je hebt nog geen privéberichten in deze map."
+msgstr ""
+
+msgid "Privé berichten"
+msgstr ""
+
+msgid "Uitbox"
+msgstr ""
+
+msgid "Inbox"
+msgstr ""
+
+msgid "Plaats bericht"
+msgstr ""
+
+msgid "Door {0} op {1}"
+msgstr ""
+
+msgid "Op dit moment is er nog geen informatie beschikbaar, probeer het over een half uur nog een keer."
+msgstr ""
+
+msgid "{0} heeft nog geen topics"
+msgstr ""
+
+msgid "Dit topic is gesloten, reageren is niet meer mogelijk."
+msgstr ""
+
+msgid "Je hebt geen toestemming om reacties te plaatsen."
+msgstr ""
+
+msgid "Je moet ingelogd zijn om te kunnen reageren."
+msgstr ""
+
+msgid "Doorzoek forum"
+msgstr ""
+
+msgid "De zoekopdracht {0} heeft geen topics opgeleverd"
+msgstr ""
+
+msgid "Er is {0} resultaat gevonden voor de zoekopdracht: {1}"
+msgid_plural "Er zijn {0} resultaten gevonden voor de zoekopdracht: {1}"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Gebruikerstitel"
+msgstr ""
+
+msgid "Mijn waarschuwingen"
+msgstr ""
+
+msgid "Je hebt nog geen waarschuwingen gehad."
+msgstr ""
+
+msgid "Mijn recente topics"
+msgstr ""
+
+msgid "Je hebt nog geen topics geplaatst"
+msgstr ""
+
+msgid "Inloggen"
+msgstr ""
+
+msgid "Gebruikersnaam"
+msgstr ""
+
+msgid "Wachtwoord"
+msgstr ""
+
+msgid "Wachtwoord vergeten?"
+msgstr ""
+
+msgid "Herhaal nieuw wachtwoord"
+msgstr ""
+
+msgid "Wachtwoord opslaan"
+msgstr ""
+
+msgid "Account herstellen"
+msgstr ""
+
+msgid "E-mail adres"
+msgstr ""
+
+msgid "Hier bent u op de juiste plaats als u een vergeten wachtwoord opnieuw wilt instellen of een vergendeld account wilt ontgrendelen."
+msgstr ""
+
+msgid "Herstel account"
+msgstr ""
+
+msgid "{0} een vriendverzoek sturen"
+msgstr ""
+
+msgid "De opgevraagde url %s kon niet worden gevonden."
+msgstr ""
+
+msgid "An Internal Error Has Occurred"
+msgstr "Er is een interne fout opgetreden"
+
+msgid "Error"
+msgstr "Fout"
+
+msgid "You are not authorized to access that location."
+msgstr "U heeft geen toestemming om deze pagina te bezoeken."
+
+msgid "Missing CSRF token cookie"
+msgstr "Uw CSRF token cookie ontbreekt."
+
+msgid "CSRF token mismatch."
+msgstr "CSRF Token klopt niet"
+
+msgid "Not Found"
+msgstr "Niet gevonden"
+
+msgid "An Internal Error Has Occurred."
+msgstr "Er is een interne fout opgetreden"
+
+msgid "{0,number,#,###.##} KB"
+msgstr ""
+
+msgid "{0,number,#,###.##} MB"
+msgstr ""
+
+msgid "{0,number,#,###.##} GB"
+msgstr ""
+
+msgid "{0,number,#,###.##} TB"
+msgstr ""
+
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+
+msgid "%s ago"
+msgstr "%s geleden"
+
+msgid "on %s"
+msgstr "%s"
+
+msgid "just now"
+msgstr "zojuist"
+
+msgid "about a second ago"
+msgstr "zojuist"
+
+msgid "about a minute ago"
+msgstr "zojuist"
+
+msgid "about an hour ago"
+msgstr "minder dan een uur geleden"
+
+msgid "about a day ago"
+msgstr "een dag geleden"
+
+msgid "about a week ago"
+msgstr "een week geleden"
+
+msgid "about a year ago"
+msgstr "een jaar geleden"
+
+msgid "in about a second"
+msgstr "nog een seconde"
+
+msgid "in about a minute"
+msgstr "nog een minuut"
+
+msgid "in about an hour"
+msgstr "nog een uur"
+
+msgid "in about a day"
+msgstr "nog een dag"
+
+msgid "in about a week"
+msgstr "nog een week"
+
+msgid "in about a year"
+msgstr "nog een jaar"
+
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] "{0} jaar"
+msgstr[1] "{0} jaren"
+
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] "{0} maand"
+msgstr[1] "{0} maanden"
+
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] "{0} week"
+msgstr[1] "{0} weken"
+
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] "{0} dag"
+msgstr[1] "{0} dagen"
+
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] "{0} uur"
+msgstr[1] "{0} uur"
+
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] "{0} minuut"
+msgstr[1] "{0} minuten"
+
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] "zojuist"
+msgstr[1] "{0} seconden"
+
+msgid "The requested file was not found"
+msgstr "Het opgevraagde bestand is niet gevonden"
+
+msgid "This value is already in use"
+msgstr "Deze waarde is al gebruikt"
+
+msgid "This value does not exist"
+msgstr "De ingevulde waarde bestaat niet"
+
+msgid "and"
+msgstr "en"
+
+msgid "This field is required"
+msgstr "Dit veld is verplicht"
+
+msgid "This field cannot be left empty"
+msgstr "Dit veld moet ingevuld worden"
+
+msgid "The provided value is invalid"
+msgstr "De ingevulde waarde is ongeldig"
+
+msgid "New %s"
+msgstr "Nieuw %s"
+
+msgid "Edit %s"
+msgstr "Bewerk %s"
+
+msgid "Submit"
+msgstr "Verstuur"
+
+msgid "Home"
+msgstr "Thuis"
+
+msgid "January"
+msgstr "januari"
+
+msgid "February"
+msgstr "februari"
+
+msgid "March"
+msgstr "maart"
+
+msgid "April"
+msgstr "april"
+
+msgid "May"
+msgstr "mei"
+
+msgid "June"
+msgstr "juni"
+
+msgid "July"
+msgstr "juli"
+
+msgid "August"
+msgstr "augustus"
+
+msgid "September"
+msgstr "september"
+
+msgid "October"
+msgstr "oktober"
+
+msgid "November"
+msgstr "november"
+
+msgid "December"
+msgstr "december"
